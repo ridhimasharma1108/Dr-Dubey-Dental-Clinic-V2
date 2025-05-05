@@ -347,7 +347,7 @@ function addDummyData() {
       gender: "Female",
       phone: "9876543210",
       email: "riya@example.com",
-      symptoms: "Severe tooth pain in the lower right molar",
+      symptoms: "Severe tooth pain in lower jaw",
       priority: "High",
       appointmentDateTime: getTodayDate() + "T10:30",
       xrayFileName: "riya-xray.png",
